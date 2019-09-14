@@ -5,3 +5,5 @@ Testing Framework = junit or TestNG
 Logging Framework = Log4j
 Reporting Framework = Extent Reports or Allure
 Static Code Analysis = SOnar
+
+To be added...
